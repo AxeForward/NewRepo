@@ -11,3 +11,4 @@ FUD: Fear, Uncertainty and Doubt.
     * Pandas
     * Scipy
     * seaborn
+    * collections

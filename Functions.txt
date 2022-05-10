@@ -1,5 +1,4 @@
 Calculations
-etc.
 Statistics: average
 descriptions: min, medium, max
 Main Functions

@@ -4,6 +4,8 @@ Hi there!
 
 Git is awesome!
 
+I love using git.
+
 FUD: Fear, Uncertainty and Doubt.
 
 * Python libraries:

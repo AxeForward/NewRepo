@@ -2,7 +2,7 @@
 
 Hi there!
 
-Git is good.
+Git is awesome!
 
 FUD: Fear, Uncertainty and Doubt.
 
